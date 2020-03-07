@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>CHAMPIONS LEAGUE TOP SCORER</pattern>
+		<template>That’s Cristiano Ronaldo</template>
+	</category>
+	<category>
+		<pattern>CHAMPIONS LEAGUE WINNERS</pattern>
+		<template>That’s Real Madrid</template>
+	</category>
+
+	<category>
+		<pattern>THE PREMIER LEAGUE</pattern>
+		<template>The Premier League is the most-watched sports league in the world, broadcast in 212 territories to 643 million homes and a potential TV audience of 4.7 billion people</template>
+	</category>
+	<category>
+		<pattern>THE PREMIER LEAGUE BEST PLAYER</pattern>
+		<template>The Premier League best player is Mo Salah of Liverpool</template> 
+	</category>
+	<category>
+		<pattern>THE PREMIER LEAGUE BEST COACH</pattern>
+		<template>The Premier League best coach is Pep Guardiola of Manchester City</template>
+	</category>
+
+	<category>
+		<pattern>WORLD S BEST PLAYER</pattern>
+		<template>The best player in the world is Cristiano Ronaldo of Real Madrid.</template> 
+	</category>
+	<category>
+		<pattern>WHO IS THE BEST PLAYER</pattern>
+		<template>The best player in the world is Cristiano Ronaldo of Real Madrid.</template> 
+	</category>
+	<category>
+		<pattern>WHO IS THE * BEST PLAYER</pattern>
+		<template>The best player in the world is Cristiano Ronaldo of Real Madrid.</template> 
+	</category>
+		<category>
+		<pattern>WHO IS THE BEST PLAYER IN THE WORLD</pattern>
+		<template>The best player in the world is Cristiano Ronaldo of Real Madrid.</template> 
+	</category>
+
+	<category>
+		<pattern>WORLD CUP</pattern>
+		<template>The World Cup started on the 14th of June 2018 in Russia, with Russia and Saudi Arabia kicking off.<br/> For more info about the World Cup, use the following keywords: <br/>WC (COUNTRY NAME), WC (COUNTRY NAME) Fixtures, WC (COUNTRY NAME) Results, <br/>WC (COUNTRY NAME) Top scorer, WC Group A-H e.g Group D , <br/>WC Facts, WC News</template>
+	</category>
+	<category>
+		<pattern>* WORLD CUP</pattern>
+		<template>The World Cup started on the 14th of June 2018 in Russia, with Russia and Saudi Arabia kicking off.</template>
+	</category>
+	<category>
+		<pattern>WHEN * THE WORLD CUP *</pattern>
+		<template>The World Cup started on the 14th of June 2018 in Russia and ends on the 15th of June, with Russia and Saudi Arabia kicking off.</template>
+	</category>
+
+	<category>
+		<pattern>HOW MANY COUNTRIES ARE * * WORLD CUP</pattern>
+		<template>There are 32 participating countries in the World Cup.</template>
+	</category>
+
+	<category>
+		<pattern>HOW MANY COUNTRIES ARE * * * WORLD CUP</pattern>
+		<template>There are 32 participating countries in the World Cup.</template>
+	</category>
+	<category>
+		<pattern>WHICH COUNTRIES WILL BE PLAYING AT THE WORLD CUP</pattern>
+		<template>Group A: Russia, Saudi Arabia, Egypt, Uruguay<br/>Group B: Portugal, Spain, Morocco, Iran<br/>Group C: France, Australia, Peru, Denmark<br/>
+    				  Group D: Argentina, Iceland, Croatia, Nigeria<br/>
+   					  Group E: Brazil, Switzerland, Costa Rica, Serbia<br/>
+    				  Group F: Germany, Mexico, Sweden, South Korea<br/>
+    				  Group G: Belgium, Panama, Tunisia, England<br/>
+    				  Group H: Poland, Senegal, Colombia, Japan .
+		</template>
+	</category>
+
+	<category>
+		<pattern>* BEST PLAYERS IN THE WORLD CUP</pattern>
+		<template>The best players going to World Cup in Russia are Cristiano Ronaldo, Mo Salah and Leo Messi.</template>
+	</category>
+	<category>
+		<pattern>WHO ARE THE WORLD CHAMPIONS</pattern>
+		<template>The current champion is Germany, which won its fourth title at the 2014 tournament in Brazil.</template> 
+	</category>
+
+	<category>
+		<pattern>CHELSEA FC</pattern>
+		<template>Chelsea FC is a professional football club in London. (COUNTRY NAME) founded in 1905 and nicknamed the Blues and can also be nicknamed the Pensioners. They play at Stamford Bridge in London and their chairman is Bruce Buck, their owner is Roman Abramovich and their manager is Antonio Conte. </template>
+	</category>
+	<category>
+		<pattern>COACH OF CHELSEA</pattern>
+		<template>Ask Abramovich</template>
+	</category>
+
+	<category>
+	<pattern>ARSENAL FC</pattern>
+	<template>Arsenal Football Club is a professional football club based in Islington, London, England that plays in the Premier League. (COUNTRY NAME) nicknamed The Gunners who play at the Emirates Stadium founded in 1886. </template>
+	</category>
+
+	<category>
+		<pattern>COACH OF ARSENAL</pattern>
+		<template>The manager of Arsenal is Unai Emery</template>
+	</category>
+
+	<category>
+		<pattern>LIVERPOOL FC</pattern>
+		<template>Liverpool Football Club is a professional football club in Liverpool, England, that competes in the Premier League, the top tier of English football.
+		(COUNTRY NAME) founded in 1892 and play at Anfield in Liverpool and their manager is Jürgen Klopp and their chairman is Tom Werner. They are nicknamed the Reds and are one of England's most successful clubs.
+		</template>
+	</category>
+
+	<category>
+		<pattern>COACH OF LIVERPOOL</pattern>
+		<template>The manager of Manchester CIty is Jurgen Klopp</template>
+	</category>
+
+	<category>
+		<pattern>MANCHESTER CITY</pattern>
+		<template>Manchester City Football Club is a football club in Manchester, England. eam founded in 1880 and were then called West Gorton, their chairman is Khaldoon Al Mubarak. They play at the Etihad Stadium in Manchester. Their manager is Pep Guardiola. </template>
+	</category>
+
+	<category>
+		<pattern>COACH OF MAN CITY</pattern>
+		<template>The manager of Manchester CIty is Pep Guardiola</template>
+	</category>
+
+	<category>
+		<pattern>MANCHESTER UNITED</pattern>
+		<template>Manchester United Football Club is a professional football club based in Old Trafford, England, that competes in the Premier League, the top flight of English football.(COUNTRY NAME) founded in 1878, nicknamed the Red Devils and play at Old Trafford in Manchester.</template>
+	</category>
+
+	<category>
+		<pattern>COACH OF MAN U</pattern>
+		<template>The manager of Manchester United is Jose Mourinho</template>
+	</category>
+
+	<category>
+		<pattern>LA LIGA</pattern>
+		<template>The La Liga is the men's top professional association football division of the Spanish football league system.</template>
+	</category>
+
+	<category>
+		<pattern>REAL MADRID</pattern>
+		<template>Real Madrid is a professional football club based in Madrid, Spain.Founded on 6 March 1902 as the Madrid Football Club, the club has traditionally worn a white home kit since inception</template>
+	</category>
+
+	<category>
+		<pattern>COACH OF REAL MADRID</pattern>
+		<template>Ask Fiorentina Perez.</template>
+	</category>
+
+	<category>
+		<pattern>FC BARCELONA</pattern>
+		<template>FC Barcelona is a professional football club based in Barcelona, Catalonia, Spain.</template>
+	</category>
+	<category>
+		<pattern>COACH OF BARCELONA</pattern>
+		<template>The manager of FC Barcelona is Ernesto Valverde</template>
+	</category>
+
+	<category>
+		<pattern>ATHLETICO MADRID</pattern>
+		<template>Atlético Madrid is a Spanish professional football club based in Madrid, that plays in La Liga.</template>
+	</category>
+	<category>
+		<pattern>COACH OF ATLETICO MADRID</pattern>
+		<template>The manager of Atletico Madrid is Diego Simeone</template>
+	</category>
+
+	<category>
+		<pattern>WORLD CUP FACTS</pattern>
+		<template>
+			<random>
+				<li>The World Cup in 2018 will mark the first time Russia has ever hosted this event</li>
+				<li>The 2018 World Cup will be Russia’s 11th World Cup appearance</li>
+				<li>Their highest ever finish was 4th place in 1966.</li>
+				<li>3.2 billion people (almost half of the world’s population) tuned in to watch the 2014 World Cup.</li> 
+				<li>The World Cup has been played 20 times, Brazil holds the most titles with five. Italy and Germany are close behind with four each.</li>
+				<li>For the first time in the history of soccer, the 2002 World Cup was held in two different countries: South Korea and Japan.</li>
+				<li>The oldest goal scorer in the World Cup was Roger Milla, who was 42 in 1994 when he scored a goal for Cameroon against Russia.</li>
+				<li>It is rumored that India withdrew from the 1950 tournament as they were not allowed to play barefoot.</li>
+				<li>One of the venues for the 2018 World Cup, Fisht Stadium in Sochi, is the same stadium that hosted the opening and closing ceremonies at the 2014 Winter Games.</li>
+				<li>The first World Cup was played in 1930. Uruguay was both the tournament host and winner that year.</li>
+				<li>The World Cup trophy went missing for 7 days in 1966, when it was stolen just prior to the tournament.</li>
+				<li>he distance between the easternmost host city (Ekaterinburg) and the westernmost host city (Kaliningrad) at the 2018 World Cup is over 1500 miles. For comparison, that’s about the same distance as Moscow to London, England.</li>
+				<li>The average attendance per game at the 2014 World Cup was over 53,000 fans</li>
+				<li>The highest scoring game in World Cup history was in 1954, when Austria defeated Switzerland 7-5.</li>
+				<li>The Italians have had the most number of draws in World Cup history with 21.</li>
+				<li>Of all countries that have appeared in the World Cup, Indonesia has played the least number of matches – just one in 1938.</li>
+				<li>Mexico has the most World Cup losses (25), though they do also have 14 wins and 14 draws.</li>
+				<li>While 32 (COUNTRY NAME)s will qualify for the 2018 tournament, the number will jump to 48 in 2026.</li>
+				<li>The most goals ever scored by one player in a World Cup match is an impressive five, by Oleg Salenko of Russia.</li>
+				<li>The World Cup winning country is rumored to see a baby boom 9 months after the World Cup. In fact, Hyundai even created a commercial based on this fact.</li>
+				<li>The former French player Just Fontaine still holds the record for top scorer in a single World Cup. In 1958 he scored 13 goals. This tally makes him the fourth top scorer in World Cup history.</li>
+				<li>The fastest goal of the competition was in 2002 and took just 11 seconds to be scored. Former Turkish international player, Hakan Sukur, scored in the 3rd/4th place playoff between Turkey and South Korea. Turkey ended up winning the game 3-2.</li>
+				<li>The national (COUNTRY NAME) with the record of most finals lost is Germany, who have been runners-up four times in 1966, 1982, 1986 and 2002.</li>
+				<li>The player who has played on a winning (COUNTRY NAME) the most times is Brazilian, Pelé, who has won three World Cups altogether, in 1958, 1962 and 1970. He is also the youngest scorer, and winner of the competition, at just 17 years old.</li>
+				<li>As well as being the country with the most amount of World Cup trophies, Brazil is also the only (COUNTRY NAME) to have participated in every edition of the World Cup.</li>
+				<li>Brazil (in 1958 and 1962) and Italy (in 1934 and 1938) are the only countries to win the competitions back-to-back.</li>
+				<li>The biggest rout in the World Cup was Hungary's 10-1 victory over El Salvador, in the 1982 edition..</li>
+
+			</random> 
+	 </template>
+	</category>
+	
+	<category>
+		<pattern>WC GROUP * </pattern>
+		<template>
+			<think><set name="football"><star index="1"/></set></think>
+			<srai>WORLD CUP GROUP <get name="football"/></srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>GROUP * </pattern>
+		<template>
+			<think><set name="football"><star index="1"/></set></think>
+			<srai>WORLD CUP GROUP <get name="football"/></srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>GROUP * STANDINGS</pattern>
+		<template>
+			<think><set name="football"><star index="1"/></set></think>
+			<srai>WORLD CUP GROUP <get name="football"/></srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>STANDINGS *</pattern>
+		<template>
+			<think><set name="football"><star index="1"/></set></think>
+			<srai>WORLD CUP GROUP <get name="football"/></srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>STANDINGS GROUP *</pattern>
+		<template>
+			<think><set name="football"><star index="1"/></set></think>
+			<srai>WORLD CUP GROUP <get name="football"/></srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>STANDINGS FOR GROUP *</pattern>
+		<template>
+			<think><set name="football"><star index="1"/></set></think>
+			<srai>WORLD CUP GROUP <get name="football"/></srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WORLD CUP GROUP * </pattern>
+		
+		<template>
+			<system>python3 /home/workraven/raven/worldcup_data.py realtime <get name="football"/> </system>
+		</template>
+	</category>
+
+</aiml>

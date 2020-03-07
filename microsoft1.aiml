@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WHO IS THE OWNER OF MICROSOFT</pattern>
+		<template>Bill Gates</template> 
+	</category>
+	<category>
+		<pattern>WHO OWNS MICROSOFT</pattern>
+		<template>Bill Gates</template> 
+	</category>
+	<category>
+		<pattern>WHO IS THE CEO OF MICROSOFT</pattern>
+		<template>Bill Gates</template> 
+	</category>
+
+	<category>
+		<pattern>WHERE IS THE HEADQUARTERS OF MICROSOFT</pattern>
+		<template>Redmond, Washington, United States.</template> 
+	</category>
+	<category>
+		<pattern>WHERE IS MICROSOFT S HEADQUARTERS LOCATED</pattern>
+		<template>Redmond, Washington, United States.</template> 
+	</category>
+	<category>
+		<pattern>WHERE IS MICROSOFT S OFFICE</pattern>
+		<template>Redmond, Washington, United States.</template> 
+	</category>
+	<category>
+		<pattern>WHERE IS MICROSOFT S HEADQUARTERS</pattern>
+		<template>Redmond, Washington, United States.</template> 
+	</category>
+
+	<category>
+		<pattern>WHO IS THE RICHEST MAN IN THE WORLD</pattern>
+		<template>CEO of Amazon, Jeff Bezos</template> 
+	</category>
+	<category>
+		<pattern>RICHEST MAN IN THE WORLD</pattern>
+		<template>CEO of Amazon, Jeff Bezos</template> 
+	</category>
+	<category>
+		<pattern>THE RICHEST MAN IN THE WORLD</pattern>
+		<template>CEO of Amazon, Jeff Bezos</template> 
+	</category>
+
+</aiml>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+<meta name="author" content="Diano"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern>WHAT TIME IS IT NOW</pattern>
+<template>
+<srai>TIME</srai>
+</template>
+</category>
+
+<category>
+<pattern>WHAT TIME IS IT</pattern>
+<template>
+<srai>TIME</srai>
+</template>
+</category>
+
+<category>
+<pattern>TIME</pattern>
+<template>
+<system>date</system>
+</template>
+</category>
+
+<category>
+  <pattern>*</pattern>
+  <template>
+    <condition>
+      <li name="where" value="">Where are you now?</li>
+      <li>I won't say anything else for now.</li>
+    </condition>
+  </template>
+</category>
+
+<category>
+<pattern>*</pattern>
+<that> where are you now</that>
+<template>
+<think><set name="where"><formal><star/></formal></set></think>
+<random>
+  <li><get name="where"/>is a good place.</li>
+  <li>I hope I've also <get name="where"/> with you.</li>
+  <li>I just looked at the weather for <get name="where"/>.</li>
+</random>
+</template>
+</category>
+
+
+
+<category>
+  <pattern>WHAT S HOT OUTSIDE</pattern>
+  <template>
+      You are now in <get name="where"/>,
+      <system>python weather.py realtime <get name="where"/></system>
+  </template>
+</category>
+
+<category>
+  <pattern>I ARRIVED *</pattern>
+  <template>
+    <condition>
+      <li name="where" value=""><think><set name="where"><formal><star/></formal></set></think>
+      Um, I know.</li>
+      <li>Cheat, you are obviously <get name="where"/>.</li>
+    </condition>
+  </template>
+</category>
+
+<category>
+<pattern>* DIANO</pattern>
+<template>
+<think><set name="city"><star index="1"/></set></think>
+<srai>Inquiry <get name="city"/> Weather</srai>
+</template>
+</category>
+
+<category>
+<pattern>DIANO REPORT * </pattern>
+<template>
+<think><set name="city"><star index="1"/></set></think>
+<srai>Inquiry <get name="city"/> Weather</srai>
+</template>
+</category>
+
+<category>
+<pattern>* WEATHER NEWS</pattern>
+<template>
+<think><set name="city"><star index="1"/></set></think>
+<srai>Inquiry <get name="city"/> Weather</srai>
+</template>
+</category>
+
+<category>
+<pattern>* CURRENT WEATHER</pattern>
+<template>
+<think><set name="city"><star index="1"/></set></think>
+<srai>Inquiry <get name="city"/> Weather</srai>
+</template>
+</category>
+
+<category>
+<pattern>* CURRENT WEATHER </pattern>
+<template>
+<think><set name="city"><star index="1"/></set></think>
+<srai>Inquiry <get name="city"/> Weather</srai>
+</template>
+</category>
+
+
+<category>
+<pattern> INQUIRY * WEATHER </pattern>
+<template>
+<system>/home/workraven/raven/weather.py realtime <get name="city"/> </system>
+</template>
+</category>
+
+</aiml>

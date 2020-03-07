@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/28/2018 -->
+<!-- modified by Diano-->
+
+<category>
+	<pattern>WHERE IS MY WIFE</pattern>
+	<template>
+		<random>
+			<li>Where did you last see her?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when she was missing?</li>
+			<li>Give me her number, I will plead to her on your behalf</li> 
+			<li>She's chilling with me </li> 
+			<li>She's in your country right now!</li> 
+			<li>What would you like me to tell her?</li> 
+			<li>She was last seen on your friend's bed!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>WIFE</pattern>
+	<template>
+		<random>
+			<li>Where did you last see her?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when she was missing?</li>
+			<li>Give me her number, I will plead to her on your behalf?</li> 
+			<li>She's hanging out with me</li> 
+			<li>She's in your country right now !</li> 
+			<li>What would you like me to tell her?</li> 
+			<li>She was last seen on your friend's bed!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MY WIFE</pattern>
+	<template>
+		<srai>WIFE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>* MY WIFE *</pattern>
+	<template>
+		<srai>WIFE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>* MY WIFE</pattern>
+	<template>
+		<srai>WIFE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MY WIFE *</pattern>
+	<template>
+		<srai>WIFE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GIRLFRIEND</pattern>
+	<template>
+		<random>
+			<li>Oh! you have one?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Hmmm your girlfriend is hot!</li>
+			<li>I need to get me a girlfriend too</li> 
+			<li>She's with me here at my home!</li> 
+			<li>She's in your country right now !</li> 
+			<li>What would you like me to tell her?</li> 
+			<li>She was last seen on your friend's bed!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY GIRLFRIEND</pattern>
+	<template>
+		<srai>GIRLFRIEND</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MY GIRLFRIEND *</pattern>
+	<template>
+		<srai>GIRLFRIEND</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY GIRLFRIEND *</pattern>
+	<template>
+		<srai>GIRLFRIEND</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>BABE</pattern>
+	<template>
+		<random>
+			<li>Oh! you have one?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Hmmm, is babe a guy or a lady?</li>
+			<li>I need to get me a babe too</li> 
+			<li>How old is babe?</li> 
+			<li>Am sure babe is fine</li> 
+			<li>Babe is where you last left babe</li> 
+			<li>Babe is Chilling!</li>  
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MY BABE *</pattern>
+	<template>
+		<srai>BABE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>* MY BABE *</pattern>
+	<template>
+		<srai>BABE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>* MY BABE</pattern>
+	<template>
+		<srai>BABE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY BABE *</pattern>
+	<template>
+		<srai>BABE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>BAE</pattern>
+	<template>
+		<random>
+			<li>Oh! you have one?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Hmmm, is bae a guy or a lady?</li>
+			<li>I need to get me a bae too</li> 
+			<li>How old is bae?</li> 
+			<li>Am sure bae is fine</li> 
+			<li>Bae is where you last left babe</li> 
+			<li>Bae is Chilling!</li>  
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY BAE</pattern>
+	<template>
+		<srai>BAE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MY BAE *</pattern>
+	<template>
+		<srai>BAE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>* MY BAE</pattern>
+	<template>
+		<srai>BAE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY BAE *</pattern>
+	<template>
+		<srai>BAE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MY WOMAN</pattern>
+	<template>
+		<random>
+			<li>Where did you last see her?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when she was missing?</li>
+			<li>Give me her number, I will plead to her on your behalf?</li> 
+			<li>She's hanging out with me</li> 
+			<li>She's in your country right now !</li> 
+			<li>What would you like me to tell her?</li> 
+			<li>She was last seen on your friend's bed!</li> 
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>MY MAN</pattern>
+	<template>
+		<random>
+			<li>Where did you last see him?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when he was missing?</li>
+			<li>Give me his number, I will plead to him on your behalf?</li> 
+			<li>He's hanging out with me</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen on your friend's bed!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY GUY</pattern>
+	<template>
+		<random>
+			<li>Where did you last see him?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when he was missing?</li>
+			<li>Give me his number, I will plead to him on your behalf?</li> 
+			<li>He's hanging out with me</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen on your friend's bed!
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>BOO</pattern>
+	<template>
+		<random>
+			<li>Oh! you have one?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Hmmm, is boo a guy or a lady?</li>
+			<li>I need to get me a boo too</li> 
+			<li>How old is boo?</li> 
+			<li>Am sure boo is fine</li> 
+			<li>Boo is where you last left boo</li> 
+			<li>Boo is Chilling!</li>  
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>* BOO</pattern>
+	<template>
+		<random>
+			<li>Oh! you have one?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Hmmm, is bae a guy or a lady?</li>
+			<li>I need to get me a bae too</li> 
+			<li>How old is bae?</li> 
+			<li>Am sure bae is fine</li> 
+			<li>Bae is where you last left babe</li> 
+			<li>Bae is Chilling!</li>  
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY BOO</pattern>
+	<template>
+		<srai>BOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MY BOO *</pattern>
+	<template>
+		<srai>BOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>*MY BOO</pattern>
+	<template>
+		<srai>BOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_MY BOO *</pattern>
+	<template>
+		<srai>BOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MY DAD</pattern>
+	<template>
+		<random>
+			<li>Where did you see him last?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was Mom with you when he was missing?</li>
+			<li>How does he look like?</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen on drinking coffee!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY DADDY</pattern>
+	<template>
+		<random>
+			<li>Where did you see him last?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was Mom with you when he was missing?</li>
+			<li>How does he look like?</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen on drinking coffee!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY FATHER</pattern>
+	<template>
+		<random>
+			<li>Where did you see him last?!</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was Mom with you when he was missing?</li>
+			<li>What does he look like?</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen on drinking coffee!</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY BROTHER</pattern>
+	<template>
+		<random>
+			<li>Where did you see him last</li> 
+			<li>Only you can answer that question</li> 
+			<li>Can you describe him?</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen at club 57 dancing shoki</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY BRO</pattern>
+	<template>
+		<random>
+			<li>Where did you see him last</li> 
+			<li>Only you can answer that question</li> 
+			<li>Can you describe him?</li> 
+			<li>He's in your country right now !</li> 
+			<li>What would you like me to tell him?</li> 
+			<li>He was last seen at club 57 dancing shoki</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY SISTER</pattern>
+	<template>
+		<random>
+			<li>Where did you see her last</li> 
+			<li>How can i identify her when i see her</li> 
+			<li>Will you say she's beautiful?</li>
+			<li>Give me her address,I can take the fastest route <think>am presently at <set name="location"> now</set></think></li> 
+			<li>What does she look like?</li> 
+			<li>Give me her contact, am bringing her home now</li> 
+			<li>What would you like me to tell her when we see?</li> 
+			<li>She was last seen at the club</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>MY SIS</pattern>
+	<template>
+		<random>
+			<li>Where did you see her last</li> 
+			<li>How can i identify her when i see her</li> 
+			<li>Will you say she's beautiful?</li>
+			<li>Give me her address,I can take the fastest route <think>am presently at <set name="location"> now</set></think></li> 
+			<li>What does she look like?</li> 
+			<li>Give me her contact, am bringing her home now</li> 
+			<li>What would you like me to tell her when we see?</li> 
+			<li>She was last seen at the club</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>WHERE IS MY WIFE *</pattern>
+	<template>
+		<random>
+			<li>Where did you last see her?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when she was missing?</li>
+			<li>Give me her number, I will plead to her on your behalf</li> 
+			<li>She's chilling with me </li> 
+			<li>She's in your country right now!</li> 
+			<li>What would you like me to tell her?</li> 
+			<li>She was last seen on your friend's bed!</li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>AM LOOKING FOR MY WIFE</pattern>
+	<template>
+		<random>
+			<li>Where did you last see her?</li> 
+			<li>Only you can answer that question</li> 
+			<li>Was I with you when she was missing?</li>
+			<li>Give me her number, I will plead to her on your behalf</li> 
+			<li>She's chilling with me </li> 
+			<li>She's in your country right now!</li> 
+			<li>What would you like me to tell her?</li> 
+			<li>She was last seen on your friend's bed!</li>
+		</random>
+	</template>
+</category>
+</aiml>

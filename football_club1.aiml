@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+	<pattern>CHAMPIONS LEAGUE TOP SCORER</pattern>
+	<template>That’s Cristiano Ronaldo</template>
+</category>
+<category>
+	<pattern>CHAMPIONS LEAGUE WINNERS</pattern>
+	<template>That’s Real Madrid</template>
+</category>
+
+<category>
+	<pattern>THE PREMIER LEAGUE</pattern>
+	<template>The Premier League is the most-watched sports league in the world, broadcast in 212 territories to 643 million homes and a potential TV audience of 4.7 billion people.
+<category>
+	<pattern>THE PREMIER LEAGUE BEST PLAYER</pattern>
+	<template>The Premier League best player is Mo Salah of Liverpool.</template> 
+</category>
+<category>
+	<pattern>THE PREMIER LEAGUE BEST COACH</pattern>
+	<template>The Premier League best coach is Pep Guardiola of Manchester City.</template>
+</category>
+<category>
+	<pattern>WORLD S BEST PLAYER</pattern>
+	<template>The best player in the world is Cristiano Ronaldo of Real Madrid.</template> 
+</category>
+the world cup
+<category>
+	<pattern>WORLD CUP</pattern>
+	<template>The World Cup starts on the 14th of June 2018 in Russia, with Russia and Saudi Arabia kicking off.</template>
+</category>
+<category>
+	<pattern>COUNTRIES WORLD CUP</pattern>
+	<template>There are 32 participating countries in the World Cup.</template>
+</category>
+<category>
+	<pattern>BEST PLAYERS WORLD CUP</pattern>
+	<template>The best players going to World Cup in Russia are Cristiano Ronaldo, Mo Salah and Leo Messi.</template>
+</category>
+<category>
+	<pattern>WORLD CHAMPIONS</pattern>
+	<template>The current champion is Germany, which won its fourth title at the 2014 tournament in Brazil.</template> 
+</category>
+
+<category>
+	<pattern>CHELSEA FC</pattern>
+	<template>Chelsea FC is a professional football club in London. Team founded in 1905 and nicknamed the Blues and can also be nicknamed the Pensioners. They play at Stamford Bridge in London and their chairman is Bruce Buck, their owner is Roman Abramovich and their manager is Antonio Conte. </template>
+</category>
+<category>
+	<pattern>COACH OF CHELSEA</pattern>
+	<template>Ask Abramovich</template>
+</category>
+
+<category>
+<pattern>ARSENAL FC</pattern>
+<template>Arsenal Football Club is a professional football club based in Islington, London, England that plays in the Premier League. Team nicknamed The Gunners who play at the Emirates Stadium founded in 1886. </template>
+</category>
+
+<category>
+<pattern>COACH OF ARSENAL</pattern>
+<template>The manager of Arsenal is Unai Emery</template>
+</category>
+
+<category>
+	<pattern>LIVERPOOL FC</pattern>
+	<template>Liverpool Football Club is a professional football club in Liverpool, England, that competes in the Premier League, the top tier of English football.
+	Team founded in 1892 and play at Anfield in Liverpool and their manager is Jürgen Klopp and their chairman is Tom Werner. They are nicknamed the Reds and are one of England's most successful clubs.</template>
+</category>
+
+<category>
+	<pattern>COACH OF LIVERPOOL</pattern>
+	<template>The manager of Manchester CIty is Jurgen Klopp</template>
+</category>
+
+<category>
+	<pattern>MANCHESTER CITY</pattern>
+	<template>Manchester City Football Club is a football club in Manchester, England. eam founded in 1880 and were then called West Gorton, their chairman is Khaldoon Al Mubarak. They play at the Etihad Stadium in Manchester. Their manager is Pep Guardiola. </template>
+</category>
+
+<category>
+	<pattern>COACH OF MAN CITY</pattern>
+	<template>The manager of Manchester CIty is Pep Guardiola</template>
+</category>
+
+<category>
+	<pattern>MANCHESTER UNITED</pattern>
+	<template>Manchester United Football Club is a professional football club based in Old Trafford, England, that competes in the Premier League, the top flight of English football.Team founded in 1878, nicknamed the Red Devils and play at Old Trafford in Manchester.</template>
+</category>
+
+<category>
+	<pattern>COACH OF MAN U</pattern>
+	<template>The manager of Manchester United is Jose Mourinho</template>
+</category>
+
+<category>
+	<pattern>LA LIGA</pattern>
+	<template>The La Liga is the men's top professional association football division of the Spanish football league system.</template>
+</category>
+
+<category>
+	<pattern>REAL MADRID</pattern>
+	<template>Real Madrid is a professional football club based in Madrid, Spain.Founded on 6 March 1902 as the Madrid Football Club, the club has traditionally worn a white home kit since inception</template>
+</category>
+
+<category>
+	<pattern>COACH OF REAL MADRID</pattern>
+	<template>Ask Fiorentina Perez.</template>
+</category>
+
+<category>
+	<pattern>FC BARCELONA</pattern>
+	<template>FC Barcelona is a professional football club based in Barcelona, Catalonia, Spain.
+<category>
+	<pattern>COACH OF BARCELONA</pattern>
+	<template>The manager of FC Barcelona is Ernesto Valverde</template>
+</category>
+
+<category>
+	<pattern>ATHLETICO MADRID</pattern>
+	<template>Atlético Madrid is a Spanish professional football club based in Madrid, that plays in La Liga.</template>
+<category>
+	<pattern>COACH OF ATLETICO MADRID</pattern>
+	<template>The manager of Atletico Madrid is Diego Simeone</template>
+</category>
+
+</aiml>

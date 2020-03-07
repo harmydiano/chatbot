@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>WC TEAM FIXTURES</pattern>
+		<template>Sorry, you used the wrong keyword. For example, to enquire about Nigeria's fixtures in the WC, use WC NIGERIA FIXTURES.</template> 
+	</category>
+	<category>
+		<pattern>WC</pattern>
+		<template>Sorry, you used the wrong keyword. For example, to enquire about Nigeria in the WC, use WC NIGERIA.</template> 
+	</category>
+	<category>
+		<pattern>WC RUSSIA</pattern>
+		<template>Russia is the 70th ranked country in men's football</template> 
+	</category>
+		<category>
+		<pattern>WORLD CUP RUSSIA</pattern>
+		<template>Russia is the 70th ranked country in men's football</template> 
+	</category>
+	
+	<category>
+		<pattern>WC RUSSIA RESULTS</pattern>
+		<template>Russia lost 3-0 to Uruguay</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP RUSSIA RESULTS</pattern>
+		<template>Russia lost 3-0 to Uruguay</template> 
+	</category>
+	
+	<category>
+		<pattern>WC RUSSIA FIXTURES</pattern>
+		<template>Awaiting the Round of 16 draws</template> 
+	</category>
+		<category>
+		<pattern>WORLD CUP RUSSIA FIXTURES</pattern>
+		<template>Awaiting the Round of 16 draws</template> 
+	</category>
+
+	<category>
+		<pattern>WC RUSSIA TOP SCORER</pattern>
+		<template>For now, Denis Cheryshev</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP RUSSIA TOP SCORER</pattern>
+		<template>For now, Denis Cheryshev</template> 
+	</category>
+
+	<category>
+		<pattern>WC SAUDI ARABIA</pattern>
+		<template>Saudi is the 67th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SAUDI ARABIA</pattern>
+		<template>Saudi is the 67th ranked country in men's football</template> 
+	</category>
+	
+	<category>
+		<pattern>WC SAUDI ARABIA RESULTS</pattern>
+		<template>They won Egypt by 2 goals to 1</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SAUDI ARABIA RESULTS</pattern>
+		<template>They won Egypt by 2 goals to 1</template> 
+	</category>
+
+	<category>
+		<pattern>WC SAUDI ARABIA FIXTURES</pattern>
+		<template>Out of the World Cup!</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SAUDI ARABIA FIXTURES</pattern>
+		<template>Out of the World Cup!</template> 
+	</category>
+
+	<category>
+		<pattern>WC SAUDI ARABIA TOP SCORER</pattern>
+		<template>Al Dawsari</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SAUDI ARABIA TOP SCORER</pattern>
+		<template>Al Dawsari</template> 
+	</category>
+
+
+	<category>
+		<pattern>WC EGYPT</pattern>
+		<template>Egypt is the 45th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP EGYPT</pattern>
+		<template>Egypt is the 45th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC EGYPT RESULTS</pattern>
+		<template>They lost 2-1 to Saudi Arabia</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP EGYPT RESULTS</pattern>
+		<template>They lost 2-1 to Saudi Arabia</template> 
+	</category>
+
+	<category>
+		<pattern>WC EGYPT FIXTURES</pattern>
+		<template>Out of the tournament.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP EGYPT FIXTURES</pattern>
+		<template>Out of the tournament.</template> 
+	</category>
+
+	<category>
+		<pattern>WC EGYPT TOP SCORER</pattern>
+		<template>Mohammed Sallah</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP EGYPT TOP SCORER</pattern>
+		<template>Mohammed Sallah</template> 
+	</category>
+
+	<category>
+		<pattern>WC URUGUAY</pattern>
+		<template>Urugauy is the 14th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP URUGUAY</pattern>
+		<template>Urugauy is the 14th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC URUGUAY RESULTS</pattern>
+		<template>Uruguay 3-0 Russia</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP URUGUAY RESULTS</pattern>
+		<template>Uruguay 3-0 Russia</template> 
+	</category>
+
+	<category>
+		<pattern>WC URUGUAY FIXTURES</pattern>
+		<template>Awaiting Round of 16's draws.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP URUGUAY FIXTURES</pattern>
+		<template>Awaiting Round of 16's draws.</template> 
+	</category>
+
+	<category>
+		<pattern>WC URUGUAY TOP SCORER</pattern>
+		<template>Jose Gimenez</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP URUGUAY TOP SCORER</pattern>
+		<template>Jose Gimenez</template> 
+	</category>
+
+	<category>
+		<pattern>WC PORTUGAL</pattern>
+		<template>Portugal is the 4th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PORTUGAL</pattern>
+		<template>Portugal is the 4th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC PORTUGAL RESULTS</pattern>
+		<template>A 1-1 draw with Iran</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PORTUGAL RESULTS</pattern>
+		<template>A 1-1 draw with Iran</template> 
+	</category>
+
+	<category>
+		<pattern>WC PORTUGAL FIXTURES</pattern>
+		<template>Awaiting Round of 16's draws.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PORTUGAL FIXTURES</pattern>
+		<template>Awaiting Round of 16's draws.</template> 
+	</category>
+
+	<category>
+		<pattern>WC PORTUGAL TOP SCORER</pattern>
+		<template>The world's best, Cristiano Ronaldo</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PORTUGAL TOP SCORER</pattern>
+		<template>The world's best, Cristiano Ronaldo</template> 
+	</category>
+
+	<category>
+		<pattern>WC MOROCCO</pattern>
+		<template>Morocco is the 41st ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP MOROCCO</pattern>
+		<template>Morocco is the 41st ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC MOROCCO RESULTS</pattern>
+		<template>Morocco 2 Spain 2</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP MOROCCO RESULTS</pattern>
+		<template>Morocco 2 Spain 2</template> 
+	</category>
+
+	<category>
+		<pattern>WC MOROCCO FIXTURES</pattern>
+		<template>Out of the tournament</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP MOROCCO FIXTURES</pattern>
+		<template>Out of the tournament!</template> 
+	</category>
+
+	<category>
+		<pattern>WC MOROCCO TOP SCORER</pattern>
+		<template>Khalid Boutaib!</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP MOROCCO TOP SCORER</pattern>
+		<template>Khalid Boutaib!</template> 
+	</category>
+
+	<category>
+		<pattern>WC SPAIN</pattern>
+		<template>Spain is the 10th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SPAIN</pattern>
+		<template>Spain is the 10th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC SPAIN RESULTS</pattern>
+		<template>Spain 2 Morocco 2</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SPAIN RESULTS</pattern>
+		<template>Spain 2 Morroco 2</template> 
+	</category>
+
+	<category>
+		<pattern>WC SPAIN FIXTURES</pattern>
+		<template>Awaiting Round of 16's draws.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SPAIN FIXTURES</pattern>
+		<template>Awaiting Round of 16's draws.</template> 
+	</category>
+
+	<category>
+		<pattern>WC SPAIN TOP SCORER</pattern>
+		<template>Diego Costa</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SPAIN TOP SCORER</pattern>
+		<template>Diego Costa</template> 
+	</category>
+
+	<category>
+		<pattern>WC IRAN</pattern>
+		<template>Iran is the 37th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP IRAN</pattern>
+		<template>Iran is the 37th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC IRAN RESULTS</pattern>
+		<template>Iran 1 Portugal 1</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP IRAN RESULTS</pattern>
+		<template>Iran 1 Portugal 1</template> 
+	</category>
+
+	<category>
+		<pattern>WC IRAN FIXTURES</pattern>
+		<template>Out of the tournament.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP IRAN FIXTURES</pattern>
+		<template>Out of the tournament!</template> 
+	</category>
+
+	<category>
+		<pattern>WC IRAN TOP SCORER</pattern>
+		<template>Karim Ansarifard</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP IRAN TOP SCORER</pattern>
+		<template>No Iranian player is yet to get on the scoresheet.</template> 
+	</category>
+
+	<category>
+		<pattern>WC FRANCE</pattern>
+		<template>France is the 7th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP FRANCE</pattern>
+		<template>France is the 7th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC FRANCE RESULTS</pattern>
+		<template>They won 1-0 against Peru</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP FRANCE RESULTS</pattern>
+		<template>They won 1-0 against Peru</template> 
+	</category>
+	
+	<category>
+		<pattern>WC FRANCE FIXTURES</pattern>
+		<template>Their next match is against Denmark on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP FRANCE FIXTURES</pattern>
+		<template>Their next match is against Denmark on Tuesday, 26/06/18.</template> 
+	</category>
+
+	<category>
+		<pattern>WC FRANCE TOP SCORER</pattern>
+		<template>Paul Pogba and Antoine Griezmann are the joint top scorers.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP FRANCE TOP SCORER</pattern>
+		<template>Paul Pogba and Antoine Griezmann are the joint top scorers.</template> 
+	</category>
+
+	<category>
+		<pattern>WC DENMARK</pattern>
+		<template>Denmark is the 12th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP DENMARK</pattern>
+		<template>Denmark is the 12th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC DENMARK RESULTS</pattern>
+		<template>They drew 1-1 against Australia</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP DENMARK RESULTS</pattern>
+		<template>They drew 1-1 against Australia</template> 
+	</category>
+
+	<category>
+		<pattern>WC DENMARK FIXTURES</pattern>
+		<template>Their next match is against France on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP DENMARK FIXTURES</pattern>
+		<template>Their next match is against France on Tuesday, 26/06/18.</template> 
+	</category>
+	
+	<category>
+		<pattern>WC DENMARK TOP SCORER</pattern>
+		<template>Youssef Poulsen</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP DENMARK TOP SCORER</pattern>
+		<template>Youssef Poulsen</template> 
+	</category>
+
+	<category>
+		<pattern>WC PERU</pattern>
+		<template>Peru is the 11th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PERU</pattern>
+		<template>Peru is the 11th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC PERU RESULTS</pattern>
+		<template>They lost 1-0 against France</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PERU RESULTS</pattern>
+		<template>They lost 1-0 against France</template> 
+	</category>
+	
+	<category>
+		<pattern>WC PERU FIXTURES</pattern>
+		<template>Their next match is against Denmark on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PERU FIXTURES</pattern>
+		<template>Their next match is against Denmark on Tuesday, 26/06/18.</template> 
+	</category>
+
+	<category>
+		<pattern>WC PERU TOP SCORER</pattern>
+		<template>This team is yet to score a goal!</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP PERU TOP SCORER</pattern>
+		<template>This team is yet to score a goal!</template> 
+	</category>
+
+	<category>
+		<pattern>WC AUSTRALIA</pattern>
+		<template>Australia is the 36th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP AUSTRALIA</pattern>
+		<template>Australia is the 36th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC AUSTRALIA RESULTS</pattern>
+		<template>They drew 1-0 with Denmark</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP AUSTRALIA RESULTS</pattern>
+		<template>They drew 1-0 with Denmark</template> 
+	</category>
+	<category>
+		<pattern>WC AUSTRALIA FIXTURES</pattern>
+		<template>Their next match is against Denmark on Thursday, 21/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP AUSTRALIA FIXTURES</pattern>
+		<template>Their next match is against Denmark on Thursday, 21/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC AUSTRALIA TOP SCORER</pattern>
+		<template>Michael Jedinak</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP AUSTRALIA TOP SCORER</pattern>
+		<template>Michael Jedinak</template> 
+	</category>
+
+	<category>
+		<pattern>WC CROATIA</pattern>
+		<template>Croatia is the 20th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP CROATIA</pattern>
+		<template>Croatia is the 20th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC CROATIA RESULTS</pattern>
+		<template>A 3-0 win over Argentina</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP CROATIA RESULTS</pattern>
+		<template>A 3-0 win over Argentina</template> 
+	</category>
+
+	<category>
+		<pattern>WC CROATIA FIXTURES</pattern>
+		<template>Their next match is against Iceland on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP CROATIA FIXTURES</pattern>
+		<template>Their next match is against Iceland on Tuessday, 26/06/18.</template> 
+	</category>
+
+	<category>
+		<pattern>WC CROATIA TOP SCORER</pattern>
+		<template>Luka Modric</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP CROATIA TOP SCORER</pattern>
+		<template>Luka Modric</template> 
+	</category>
+
+	<category>
+		<pattern>WC ICELAND</pattern>
+		<template>Iceland is the 22nd ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ICELAND</pattern>
+		<template>Iceland is the 22nd ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC ICELAND RESULTS</pattern>
+		<template>A 2-0 loss to Nigeria</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ICELAND RESULTS</pattern>
+		<template>A 2-0 loss to Nigeria</template> 
+	</category>
+
+	<category>
+		<pattern>WC ICELAND FIXTURES</pattern>
+		<template>Their next match is against Croatia on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ICELAND FIXTURES</pattern>
+		<template>Their next match is against Croatia on Tuesday, 26/06/18.</template> 
+	</category>
+	
+	<category>
+		<pattern>WC ICELAND TOP SCORER</pattern>
+		<template>Alfred FInnbogason</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ICELAND TOP SCORER</pattern>
+		<template>Alfred FInnbogason</template> 
+	</category>
+
+	<category>
+		<pattern>WC NIGERIA</pattern>
+		<template>NIgeria is the 48th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP NIGERIA</pattern>
+		<template>NIgeria is the 48th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC NIGERIA RESULTS</pattern>
+		<template>They won 2-nil against Iceland</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP NIGERIA RESULTS</pattern>
+		<template>They won 2-nil against Iceland</template> 
+	</category>
+
+	<category>
+		<pattern>WC NIGERIA FIXTURES</pattern>
+		<template>Their next match is against Argentina on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP NIGERIA FIXTURES</pattern>
+		<template>Their next match is against Argentina on Tuesday, 26/06/18.</template> 
+	</category>
+
+	<category>
+		<pattern>WC NIGERIA TOP SCORER</pattern>
+		<template>Ahmed Musa!</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP NIGERIA TOP SCORER</pattern>
+		<template>Ahmed Musa!</template> 
+	</category>
+
+	<category>
+		<pattern>WC ARGENTINA</pattern>
+		<template>Argentina is the 5th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ARGENTINA</pattern>
+		<template>Argentina is the 5th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC ARGENTINA RESULTS</pattern>
+		<template>A 3-0 loss against Croatia</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ARGENTINA RESULTS</pattern>
+		<template>A 3-0 loss against Croatia</template> 
+	</category>
+
+	<category>
+		<pattern>WC ARGENTINA FIXTURES</pattern>
+		<template>Their next match is against Nigeria on Tuesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ARGENTINA FIXTURES</pattern>
+		<template>Their next match is against Nigeria on Tuesday, 26/06/18.</template> 
+	</category>
+
+	<category>
+		<pattern>WC ARGENTINA TOP SCORER</pattern>
+		<template>Sergio Aguero</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP ARGENTINA TOP SCORER</pattern>
+		<template>Sergio Aguero</template> 
+	</category>
+
+	<category>
+		<pattern>WC BRAZIL</pattern>
+		<template>Brazil is the 2nd ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP BRAZIL</pattern>
+		<template>Brazil is the 2nd ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC BRAZIL RESULTS</pattern>
+		<template>A 1-0 win against Costarica</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP BRAZIL RESULTS</pattern>
+		<template>A 1-0 win against Costarica</template> 
+	</category>
+
+	<category>
+		<pattern>WC BRAZIL FIXTURES</pattern>
+		<template>Their next match is against Serbia on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP BRAZIL FIXTURES</pattern>
+		<template>Their next match is against Serbia on Thursday, 28/06/18.</template> 
+	</category>
+	
+	<category>
+		<pattern>WC BRAZIL TOP SCORER</pattern>
+		<template>Phillipe Coutinho</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP BRAZIL TOP SCORER</pattern>
+		<template>Phillipe Coutinho</template> 
+	</category>
+
+	<category>
+		<pattern>WC SWITZERLAND</pattern>
+		<template>Switzerland is the 6th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SWITZERLAND</pattern>
+		<template>Switzerland is the 6th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC SWITZERLAND RESULTS</pattern>
+		<template>A 2-1 win over Serbia</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SWITZERLAND RESULTS</pattern>
+		<template>A 2-1 win over Serbia</template> 
+	</category>
+	<category>
+		<pattern>WC SWITZERLAND FIXTURES</pattern>
+		<template>Their next match is against Costa Rica on Wednesday, 27/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SWITZERLAND FIXTURES</pattern>
+		<template>Their next match is against Costa Rica on Wednesday, 27/06/18.</template> 
+	</category>
+	
+	<category>
+		<pattern>WC SWITZERLAND TOP SCORER</pattern>
+		<template>Steven Zuber</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SWITZERLAND TOP SCORER</pattern>
+		<template>Steven Zuber</template> 
+	</category>
+
+	<category>
+		<pattern>WC SERBIA</pattern>
+		<template>Serbia is the 34th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SERBIA</pattern>
+		<template>Serbia is the 34th ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC SERBIA RESULTS</pattern>
+		<template>A 2-1 loss to Switzerland</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SERBIA RESULTS</pattern>
+		<template>A 2-1 loss to Switzerland</template> 
+	</category>
+
+	<category>
+		<pattern>WC SERBIA FIXTURES</pattern>
+		<template>Their next match is against Brazil on Friday, 27/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SERBIA FIXTURES</pattern>
+		<template>Their next match is against Brazil on Friday, 27/06/18.</template> 
+	</category>
+
+	<category>
+		<pattern>WC SERBIA TOP SCORER</pattern>
+		<template>Alexander Kolarov</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP SERBIA TOP SCORER</pattern>
+		<template>Alexander Kolarov</template> 
+	</category>
+
+	<category>
+		<pattern>WC COSTA RICA </pattern>
+		<template>Costa Rica is the 23rd ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP COSTA RICA </pattern>
+		<template>Costa Rica is the 23rd ranked country in men's football</template> 
+	</category>
+
+	<category>
+		<pattern>WC COSTA RICA RESULTS</pattern>
+		<template>A 2-0 loss to Brazil</template> 
+	</category>
+	<category>
+		<pattern>WORLD CUP COSTA RICA RESULTS</pattern>
+		<template>A 2-0 loss to Brazil</template> 
+	</category>
+	
+	<category>
+		<pattern>WC COSTA RICA FIXTURES</pattern>
+		<template>Their next match is against Switzerland on Wednesday, 27/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC COSTA RICA TOP SCORER</pattern>
+		<template>This team is yet to score a goal!</template> 
+	</category>
+
+	<category>
+		<pattern>WC SWEDEN</pattern>
+		<template>Sweden is the 24th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC SWEDEN RESULTS</pattern>
+		<template>A 2-1 loss to Germany</template> 
+	</category>
+	<category>
+		<pattern>WC SWEDEN FIXTURES</pattern>
+		<template>Their next match is against Mexico on Wednesday, 27/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC SWEDEN TOP SCORER</pattern>
+		<template>Their captain, Andreas Granqvist</template> 
+	</category>
+
+	<category>
+		<pattern>WC MEXICO</pattern>
+		<template>Mexico is the 15th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC MEXICO RESULTS</pattern>
+		<template>A 2-1 win over South Korea</template> 
+	</category>
+	<category>
+		<pattern>WC MEXICO FIXTURES</pattern>
+		<template>Their next match is against Sweden on Wednesday, 27/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC MEXICO TOP SCORER</pattern>
+		<template>Hirving Lozano</template> 
+	</category>
+
+	<category>
+		<pattern>WC SOUTH KOREA</pattern>
+		<template>South Korea is the 57th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC SOUTH KOREA RESULTS</pattern>
+		<template>A 2-1 loss to Mexico </template> 
+	</category>
+	<category>
+		<pattern>WC SOUTH KOREA FIXTURES</pattern>
+		<template>Their next match is against Germany on Wednesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC SOUTH KOREA TOP SCORER</pattern>
+		<template>H.Min Son</template> 
+	</category>
+
+	<category>
+		<pattern>WC GERMANY</pattern>
+		<template>Germany is the 1st ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC GERMANY RESULTS</pattern>
+		<template>A disappointing 1-nil loss to Mexico</template> 
+	</category>
+	<category>
+		<pattern>WC GERMANY FIXTURES</pattern>
+		<template>Their next match is against South Korea on Wednesday, 26/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC GERMANY TOP SCORER</pattern>
+		<template>Marco Reus</template> 
+	</category>
+
+	<category>
+		<pattern>WC BELGIUM</pattern>
+		<template>Belgium is the 3rd ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC BELGIUM RESULTS</pattern>
+		<template>A 5-2 win over Tunisia</template> 
+	</category>
+	<category>
+		<pattern>WC BELGIUM FIXTURES</pattern>
+		<template>Their next match is against Belgium on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC BELGIUM TOP SCORER</pattern>
+		<template>That's Romelu Lukaku</template> 
+	</category>
+
+	<category>
+		<pattern>WC ENGLAND</pattern>
+		<template>England is the 12th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC ENGLAND RESULTS</pattern>
+		<template>A 6-1 win over Panama</template> 
+	</category>
+	<category>
+		<pattern>WC ENGLAND FIXTURES</pattern>
+		<template>Their next match is against Belgium on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC ENGLAND TOP SCORER</pattern>
+		<template>Harry Kane</template> 
+	</category>
+
+	<category>
+		<pattern>WC TUNISIA</pattern>
+		<template>Tunisia is the 21st ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC TUNISIA RESULTS</pattern>
+		<template>A 5-2 loss to Belgium</template> 
+	</category>
+	<category>
+		<pattern>WC TUNISIA FIXTURES</pattern>
+		<template>Their next match is against Panama on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC TUNISIA TOP SCORER</pattern>
+		<template>That's Ferjani Sassi</template> 
+	</category>
+
+	<category>
+		<pattern>WC PANAMA</pattern>
+		<template>Panama is the 55th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC PANAMA RESULTS</pattern>
+		<template>A 6-1 drubbing by England</template> 
+	</category>
+	<category>
+		<pattern>WC PANAMA FIXTURES</pattern>
+		<template>Their next match is against Tunisia on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC PANAMA TOP SCORER</pattern>
+		<template>F.Baloy</template> 
+	</category>
+
+	<category>
+		<pattern>WC JAPAN</pattern>
+		<template>Japan is the 61st ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC JAPAN RESULTS</pattern>
+		<template>A 2-2 draw with Senegal</template> 
+	</category>
+	<category>
+		<pattern>WC JAPAN FIXTURES</pattern>
+		<template>Their next match is against Poland on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC JAPAN TOP SCORER</pattern>
+		<template>Joint top scorers, Shinji Kagawa and Yuya Osako</template> 
+	</category>
+
+	<category>
+		<pattern>WC SENEGAL</pattern>
+		<template>Senegal is the 27th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC SENEGAL RESULTS</pattern>
+		<template>A 2-2 draw with Japan</template> 
+	</category>
+	<category>
+		<pattern>WC SENEGAL FIXTURES</pattern>
+		<template>Their next match is against Colombia on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC SENEGAL TOP SCORER</pattern>
+		<template>That's M'Baye Niang</template> 
+	</category>
+
+	<category>
+		<pattern>WC POLAND</pattern>
+		<template>Poland is the 8th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC POLAND RESULTS</pattern>
+		<template>A 3-0 loss to Colombia</template> 
+	</category>
+	<category>
+		<pattern>WC POLAND FIXTURES</pattern>
+		<template>Their next match is against Japan on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC POLAND TOP SCORER</pattern>
+		<template>Grzegorz Krychowiak?</template> 
+	</category>
+
+	<category>
+		<pattern>WC COLOMBIA</pattern>
+		<template>Colombia is the 16th ranked country in men's football</template> 
+	</category>
+	<category>
+		<pattern>WC COLOMBIA RESULTS</pattern>
+		<template>They won 3-0 over Poland</template> 
+	</category>
+	<category>
+		<pattern>WC COLOMBIA FIXTURES</pattern>
+		<template>Their next match is against Senegal on Thursday, 28/06/18.</template> 
+	</category>
+	<category>
+		<pattern>WC COLOMBIA TOP SCORER</pattern>
+		<template>Jose Quintero</template> 
+	</category>
+</aiml>
